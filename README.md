@@ -7,6 +7,9 @@ This project is the frontend of Gordon 360 in React. [The retired frontend](http
 
 ## Contents
 
+View design Document here:
+  https://docs.google.com/document/d/1CepyCiMzBXQVM--JwKKstniU_H1TodzxHLuCqcHxLjk/edit#
+
 - [Getting Started](#getting-started)
 - [Editor Recommendations](#editor-recommendations)
 - [Libraries](#libraries)
