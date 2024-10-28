@@ -16,7 +16,7 @@
     "date-fns": "^2.6.0",
     "downshift": "^4.0.6",
     "history": "^4.10.1",
-    "http-proxy-middleware": "^0.20.0",
+    "http-proxy-middleware": "^3.0.3",
     "interweave": "^12.1.1",
     "jwt-decode": ">=2.2.0",
     "lodash": ">=4.17.11",
@@ -60,7 +60,7 @@
     "node-sass-chokidar": "^1.4.0",
     "npm-run-all": ">=4.1.2",
     "prettier": ">=1.9.2",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "stylelint": ">=10.1.0",
     "stylelint-config-recommended-scss": ">=3.0.0",
     "stylelint-scss": ">=2.2.0"
